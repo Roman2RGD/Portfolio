@@ -32,12 +32,10 @@ The website follows a modern tech-inspired aesthetic using:
 
 R_TECH/
 │
-├── assets/
-├── css/
-├── js/
-├── images/
-├── index.html
-└── README.md
+├── README.md/
+├── index.html/
+├── script.js/
+├── style.css
 ```
 
 ## 👨‍💻 Author
